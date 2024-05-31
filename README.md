@@ -21,6 +21,7 @@
 ![image](https://github.com/Polaris112027/BookMate/assets/113433202/ad9c3fa2-74d9-4875-a13d-ba685725c594)
 # UML
 ![image](https://github.com/Polaris112027/BookMate/assets/113433202/450e9db6-9591-425b-8c90-9db9d1a5e850)
+![image](https://github.com/Polaris112027/BookMate/assets/113433202/06555aec-a7d0-4a3d-9bc0-b180eee1e076)
 
 # SOLID principles:
 
