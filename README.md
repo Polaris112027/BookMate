@@ -1,16 +1,16 @@
 How to start: 
 1. Open your mysql and create a database
 2. Create the books table and the issued_books table in the database
-![image](https://github.com/Polaris112027/BookMate/assets/113433202/dfef017a-ae3a-4947-a739-a8b1db358921)
-![image](https://github.com/Polaris112027/BookMate/assets/113433202/487c45cf-56ef-421b-a1da-17a25cd6f95c)
+![image](https://github.com/Polaris112027/BookMate/assets/113433202/76f6b3be-5aef-4779-8509-c3f8d1eac739)
+![image](https://github.com/Polaris112027/BookMate/assets/113433202/484a84b9-6553-43d0-9b09-b7652f21de6a)
 3. Change mypass and mydatabase in all .py files to your own mysql password and the name of the created database 
 4. Run the main.py file
    
 Function introduction: 
 1. Main menu
-![image](https://github.com/Polaris112027/BookMate/assets/113433202/fc78fd82-0925-41ee-bc4d-bfe100a557c5)
+![image](https://github.com/Polaris112027/BookMate/assets/113433202/546a9d80-0e53-4218-b491-02283cd60201)
 2. Add books Details
-![image](https://github.com/Polaris112027/BookMate/assets/113433202/061cd4b4-98cc-48bb-ac15-4f19ae9340a7)
+![image](https://github.com/Polaris112027/BookMate/assets/113433202/e5df45f7-be90-49ab-94f5-30fffa3d1530)
 3. View book list
 ![image](https://github.com/Polaris112027/BookMate/assets/113433202/9f326035-88d3-4b4c-a9de-556292b52b8d)
 4. Issue Book to Student
