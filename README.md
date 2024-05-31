@@ -31,3 +31,13 @@
 4. Interface Segregation Principle: The interfaces and functionalities are clearly segregated, with each button performing a specific function, hence complying with the Interface Segregation Principle.
 
 5. Dependency Inversion Principle: The GUI relies on lower-level modules like business logic and database operations, but it achieves a certain level of decoupling through function calls and similar methods. If the specific implementation of lower-level modules is altered, the GUI does not need direct modifications, just the invocation of corresponding abstract interfaces or functions. Therefore, it can be said that to some extent, it adheres to the Dependency Inversion Principle as the higher-level module (GUI) depends on abstractions rather than concrete implementations.
+
+# GRASP principles:
+
+1. Information Expert: In this code snippet, different functionalities are encapsulated in separate modules, such as adding books, deleting books, viewing book lists, etc., with each button associated with its respective operation function. This helps maintain code clarity and modularity.
+
+2. Low Coupling: Each button's click event is associated with specific operation functions, with no direct dependencies between buttons. This design reduces the coupling between different functionalities, making the code easier to maintain and extend.
+
+3. High Cohesion: Each functional operation is encapsulated in separate functions, such as adding books, deleting books, etc., each with dedicated functions to handle them. This design organizes related functionalities together, improving the code's cohesion.
+
+4. Creator: In the code, different GUI widgets are created and placed in the GUI interface, such as buttons, labels, etc. The creation and configuration process of each button is implemented separately in its respective position, adhering to the Creator principle, where the class responsible for creating an object is responsible for its creation.
