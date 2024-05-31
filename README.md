@@ -20,7 +20,7 @@
 6. Delete Book
 ![image](https://github.com/Polaris112027/BookMate/assets/113433202/ad9c3fa2-74d9-4875-a13d-ba685725c594)
 # UML
-
+![image](https://github.com/Polaris112027/BookMate/assets/113433202/450e9db6-9591-425b-8c90-9db9d1a5e850)
 
 # SOLID principles:
 
