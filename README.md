@@ -1,7 +1,10 @@
 How to start: 
-1. Open your mysql and create a database 
-2. Change mypass and mydatabase in all .py files to your own mysql password and the name of the created database 
-3. Run the main.py file
+1. Open your mysql and create a database
+2. Create the books table and the issued_books table in the database
+![image](https://github.com/Polaris112027/BookMate/assets/113433202/dfef017a-ae3a-4947-a739-a8b1db358921)
+![image](https://github.com/Polaris112027/BookMate/assets/113433202/487c45cf-56ef-421b-a1da-17a25cd6f95c)
+3. Change mypass and mydatabase in all .py files to your own mysql password and the name of the created database 
+4. Run the main.py file
    
 Function introduction: 
 1. Main menu
